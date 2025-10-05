@@ -25,4 +25,4 @@ L’interface est développée avec **Swing**, et la connexion à la base de don
 - Gestion simple et intuitive via une interface graphique  
 
 ## Lien GitHub
-[Voir le projet sur GitHub](https://github.com/HadirDridi/AppContacts)
+[Voir le projet sur GitHub](https://github.com/HadirDridi03/App_Contacts_Java.git)
